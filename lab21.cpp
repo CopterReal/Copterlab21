@@ -13,9 +13,6 @@ int main(){
 	Equipment shield(0,-1,7);
 	Equipment armor(25,-2,2);
 	
-	// [Missing Code 2]  Create Equipment axes, shield and armor here
-
-	
 	
 	char eq;	
 	cout << " [1] Sword \n [2] Axes \n [3] Shield \n [4] Armor \n";
